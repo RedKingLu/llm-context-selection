@@ -465,6 +465,7 @@ Even a result of "B is no better than A" is a valuable finding. Please share you
   title        = {Letting LLMs Choose Their Own Context: Questions, Approaches, and Open Problems},
   year         = {2026},
   note         = {Discussion draft v0.3},
+  doi          = {10.5281/zenodo.23494075},
   howpublished = {\url{https://github.com/RedKingLu/llm-context-selection}}
 }
 ```

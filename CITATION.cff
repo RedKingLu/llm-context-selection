@@ -4,6 +4,7 @@ title: "Letting LLMs Choose Their Own Context: Questions, Approaches, and Open P
 authors:
   - alias: RedKingLu
 version: "0.3"
+doi: "10.5281/zenodo.23494075"
 date-released: "2026-10-20"
 license: CC-BY-4.0
 repository-code: "https://github.com/RedKingLu/llm-context-selection"

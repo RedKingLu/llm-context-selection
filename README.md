@@ -1,5 +1,7 @@
 # 让大模型自己挑选上下文 · Letting LLMs Choose Their Own Context
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23494075.svg)](https://doi.org/10.5281/zenodo.23494075)
+
 > 一份探索性笔记：如果让模型（或一个专门的判断模型）自己决定每一轮看哪些上下文，会不会更准？会遇到哪些问题？
 >
 > An exploratory note: what if the model (or a dedicated decision model) chose which context to look at on each turn? Would it be more accurate, and what problems would arise?
@@ -39,6 +41,8 @@ This is a personal, non-peer-reviewed exploratory essay; most claims are conject
 
 ## 引用 · Citation
 
+DOI（始终指向最新版本 / always the latest version）：[10.5281/zenodo.23494075](https://doi.org/10.5281/zenodo.23494075)　｜　v0.3：[10.5281/zenodo.23494076](https://doi.org/10.5281/zenodo.23494076)
+
 见 [CITATION.cff](CITATION.cff)，或使用 / or use:
 
 ```bibtex
@@ -47,6 +51,7 @@ This is a personal, non-peer-reviewed exploratory essay; most claims are conject
   title        = {Letting LLMs Choose Their Own Context: Questions, Approaches, and Open Problems},
   year         = {2026},
   note         = {Discussion draft v0.3},
+  doi          = {10.5281/zenodo.23494075},
   howpublished = {\url{https://github.com/RedKingLu/llm-context-selection}}
 }
 ```
