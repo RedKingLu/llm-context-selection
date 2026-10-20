@@ -1,0 +1,26 @@
+{
+  "title": "Letting LLMs Choose Their Own Context: Questions, Approaches, and Open Problems",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "An exploratory, non-peer-reviewed discussion note (in Chinese and English). It asks whether letting a model, or a dedicated decision model such as Jev, choose which context to assemble on each turn improves accuracy; how this differs from agent memory mechanisms; why it may sharpen focus even at the same context length; several implementation routes; the problems they face (notably prefix-cache invalidation and silent constraint violations); and mitigation ideas and open problems. 中文标题：让大模型自己挑选上下文：一份探索性笔记。",
+  "creators": [
+    { "name": "RedKingLu" }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": [
+    "large language models",
+    "context engineering",
+    "LLM agents",
+    "prompt caching",
+    "retrieval-augmented generation",
+    "agent memory"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/RedKingLu/llm-context-selection",
+      "relation": "isSupplementedBy",
+      "scheme": "url"
+    }
+  ]
+}

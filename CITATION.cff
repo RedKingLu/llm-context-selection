@@ -1,7 +1,6 @@
 cff-version: 1.2.0
 message: "If you reference this essay, please cite it as below."
 title: "Letting LLMs Choose Their Own Context: Questions, Approaches, and Open Problems"
-type: generic
 authors:
   - alias: RedKingLu
 version: "0.3"
