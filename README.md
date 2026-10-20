@@ -4,7 +4,7 @@
 >
 > An exploratory note: what if the model (or a dedicated decision model) chose which context to look at on each turn? Would it be more accurate, and what problems would arise?
 
-📄 **正文 / Paper**：[中文](paper.zh.md) · [English](paper.en.md)　｜　讨论稿 / Discussion draft **v0.3**
+📄 **正文 / Paper**：[中文](<让大模型自己挑选上下文：一份探索性笔记.md>) · [English](<Letting-LLMs-Choose-Their-Own-Context-Questions-Approaches-and-Open-Problems.md>)　｜　讨论稿 / Discussion draft **v0.3**
 
 ⚠️ 本文为未经同行评审的个人探索性观点，文中判断大多是推测，引用数据未经作者复现。详见 [DISCLAIMER.md](DISCLAIMER.md)。
 This is a personal, non-peer-reviewed exploratory essay; most claims are conjectures and quoted numbers have not been reproduced. See [DISCLAIMER.md](DISCLAIMER.md).

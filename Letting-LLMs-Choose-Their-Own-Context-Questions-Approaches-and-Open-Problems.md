@@ -1,6 +1,6 @@
 # Letting LLMs Choose Their Own Context: Questions, Approaches, and Open Problems
 
-> Author: RedKingLu　|　Discussion draft v0.3　|　2026-10-20　|　[中文版](paper.zh.md)
+> Author: RedKingLu　|　Discussion draft v0.3　|　2026-10-20　|　[中文版](<让大模型自己挑选上下文：一份探索性笔记.md>)
 >
 > ⚠️ **Disclaimer**: This is a personal, exploratory essay. It has **not been peer-reviewed** and does not constitute technical, product, or investment advice. All numbers quoted come from the cited sources and have not been reproduced by the author. See [Section 9](#9-disclaimers) and [DISCLAIMER.md](DISCLAIMER.md) for the full statement.
 >
